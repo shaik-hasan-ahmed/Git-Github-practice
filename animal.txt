@@ -1,7 +1,0 @@
-Dog
-Chicken
-Parrot
-Piegon
-Ant
-Elephant
-
